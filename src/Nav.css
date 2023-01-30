@@ -1,0 +1,14 @@
+.Nav {
+    height: 50px;
+    width: 100vw;
+    background-color: rgba(36, 34, 34, 0.5);
+}
+.Nav a {
+    padding: 0px 30px;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+.Nav a.active {
+    color: teal;
+}

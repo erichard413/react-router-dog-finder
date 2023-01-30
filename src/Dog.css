@@ -1,0 +1,7 @@
+.Dog img {
+    border: 2px solid grey;
+}
+
+.Dog li {
+    list-style-type: none;
+}
